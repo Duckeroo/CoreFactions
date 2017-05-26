@@ -1,0 +1,13 @@
+Permissions
+
+Plugin: GroupManager
+
+Groups: Default, Vip, Helper, Mod, Admin, Dev, Owner
+
+Default:
+Parent: None
+Permissions: Default
+
+Vip:
+Parent: Default
+Permissions: Default
